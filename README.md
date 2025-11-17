@@ -37,6 +37,8 @@ grounding_dino_and_sam/
 ├── filter.py
 ├── sam.py
 ├── apply_masks_to_images.py
+├── grounding_dino_setup.md
+├── README.md
 └── sam_vit_h_4b8939.pth
 ```
 
@@ -72,6 +74,8 @@ pip install torch torchvision --index-url https://download.pytorch.org/whl/cu118
 ---
 
 ## 2.4 Install GroundingDINO
+
+For complete GroundingDINO setup follow this guideline: https://github.com/saadwazir/grounding_dino_and_sam/blob/main/grounding_dino_setup.md
 
 ```bash
 git clone https://github.com/IDEA-Research/GroundingDINO.git
