@@ -294,6 +294,9 @@ This is a **toy example**, but the workflow can be extended to:
 
 A Colab Notebook version of this project is available here:
 
+Fixed:https://colab.research.google.com/github/saadwazir/grounding_dino_and_sam_automated_dataset_annotation_and_evaluation/blob/main/grounding_dino_and_sam_automated_dataset_annotation_and_evaluation.ipynb.
+
+Original:https://colab.research.google.com/github/roboflow-ai/notebooks/blob/main/notebooks/automated-dataset-annotation-and-evaluation-with-grounding-dino-and-sam.ipynb
 
 ---
 
