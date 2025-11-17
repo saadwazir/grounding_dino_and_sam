@@ -315,3 +315,8 @@ Feel free to clone, fork, and extend this project.
 
 Happy experimenting!
 
+
+This work is based on the following code resource:
+https://colab.research.google.com/github/roboflow-ai/notebooks/blob/main/notebooks/automated-dataset-annotation-and-evaluation-with-grounding-dino-and-sam.ipynb
+
+
