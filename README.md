@@ -1,4 +1,7 @@
 # Using GroundingDINO + SAM for Automated Image Preprocessing
+[![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/saadwazir/grounding_dino_and_sam_automated_dataset_annotation_and_evaluation/blob/main/grounding_dino_and_sam_automated_dataset_annotation_and_evaluation.ipynb)
+
+
 ### *Step-by-Step Toy Example*
 
 Removing sensitive text like dates, timestamps, and unwanted overlays from images can be tedious when processed manually. This demonstrates a complete image-preprocessing pipeline using:
