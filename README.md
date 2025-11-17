@@ -85,7 +85,7 @@ cd ..
 
 ## 2.5 Install Segment Anything (SAM)
 
-Download checkpoint:
+Download checkpoint and place it inside your project directory:
 
 ```
 wget -q https://dl.fbaipublicfiles.com/segment_anything/sam_vit_h_4b8939.pth
